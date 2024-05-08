@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "hello",
+      "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis, commodi? Odio, voluptate nulla! Perspiciatis mollitia earum, voluptate excepturi, aut omnis, at hic optio voluptatum minima labore molestias in cumque suscipit."
+    },
+    {
+      "id": "f667347e-0da8-488e-b324-1c539f0da02a",
+      "title": "Jeudi",
+      "message": "oh yeah!!!"
+    }
+  ]
+}
